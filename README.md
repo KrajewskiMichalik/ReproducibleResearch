@@ -5,7 +5,8 @@
 #### OUR APPLICATION WORKS IN TWO PLACES:
 ##### Incomplete version on AWS: http://3.18.106.13:3838/project/
 ###### (this is due to some problems with two librabries (ggpubr, leaflet) and support with R 3.4.4, which is available on AWS Ubuntu 18.04)
-##### Full version on RShinyServer: 
+##### Full version on RShinyServer: https://dominikenw.shinyapps.io/house_price_eda/?_ga=2.20394428.581674048.1591633950-1811399442.1591544845 
+##### (same app as on AWS, but with working charts and map)
 
 
 ##### How to run (on AWS):
