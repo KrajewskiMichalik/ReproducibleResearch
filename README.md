@@ -4,7 +4,7 @@
 
 #### OUR APPLICATION WORKS IN TWO PLACES:
 ##### Incomplete version on AWS: http://3.18.106.13:3838/project/
-###### this is due to some problems with two librabries (ggpubr, leaflet) and support with R 3.4.4, which is available on AWS Ubuntu 18.04
+###### (this is due to some problems with two librabries (ggpubr, leaflet) and support with R 3.4.4, which is available on AWS Ubuntu 18.04)
 ##### Full version on RShinyServer: 
 
 
@@ -26,7 +26,7 @@
 
 #### What can You find in app:
 
-###### <u>Dataset:</u>
+###### Dataset:
 
 it is a place where data frames is avaible to see.
 
