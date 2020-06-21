@@ -26,7 +26,7 @@
 
 #### What can You find in app:
 
-###### Dataset:
+###### <u>Dataset:</u>
 
 it is a place where data frames is avaible to see.
 
